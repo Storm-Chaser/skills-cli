@@ -26,6 +26,7 @@ export type AgentType =
   | 'gemini-cli'
   | 'github-copilot'
   | 'goose'
+  | 'gsd'
   | 'hermes-agent'
   | 'iflow-cli'
   | 'junie'
